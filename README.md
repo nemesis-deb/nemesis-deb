@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![nemesis-deb's Stats](https://github-readme-stats.vercel.app/api?username=nemesis-deb&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
+![nemesis-deb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nemesis-deb&theme=midnight-purple&hide_border=true)
+
+![nemesis-deb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nemesis-deb&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
