@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div align="center">
+  <img align=center width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemesis-deb&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+</div>
 
 <!--
 **nemesis-deb/nemesis-deb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align-center>
-  <img width=300 src="https://github-readme-stats.vercel.app/api?username=nemesis-deb&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
-  <img width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=nemesis-deb&theme=midnight-purple&hide_border=true"/>
-  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemesis-deb&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
-</div
+## Languages and Frameworks ⚡
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,haskell,bash,md,py,vue" />
+  <br/> <br/>
+  <img src="https://skillicons.dev/icons?i=git,pnpm,vitest" />
+  <br/> <br/>
+  <img src="https://skillicons.dev/icons?i=godot,arch,debian,github,gitlab,idea,obsidian,ps,pr,replit,stackoverflow,vscode,windows" />
+</div>
