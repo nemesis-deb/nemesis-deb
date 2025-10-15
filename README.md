@@ -1,13 +1,3 @@
-## Me ? 🌾
-<div align="center" padding="auto">
- <pre>                                                                                     
-    <p>I know you're telling me you're leaving,</p>
-    <p>but all I wanna do is hold you now</p>
-    <p>And hear the sound of your heart beating</p>
-    <p>If there's a way to stop this, show me how</p>
-  </pre>
-</div>
-
 ## Languages and Frameworks ⚡
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,haskell,bash,md,py,vue" />
