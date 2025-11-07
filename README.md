@@ -1,12 +1,15 @@
 ## Languages and Frameworks ⚡
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html, css, js, c, cpp, haskell, bash, md, py, vue" />
-  <br/> <br/>
-  <img src="https://skillicons.dev/icons?i=git, pnpm, vitest, arch, arduino, discord, docker, fastapi, nodejs, notion" />
-  <br/> <br/>
-  <img src="https://skillicons.dev/icons?i=godot, debian, github, gitlab, idea, obsidian, ps, pr, vscode, windows" />
-  <br/> <br/>
-  <img src="https://skillicons.dev/icons?i=npm, obsidian, php, react, rust, supabase, tailwind, ts, vercel, vite" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,haskell,bash,md,py,vue" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=git,pnpm,vitest,arch,arduino,discord,docker,fastapi,nodejs,notion" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=godot,debian,github,gitlab,idea,obsidian,ps,pr,vscode,windows" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=npm,obsidian,php,react,rust,supabase,tailwind,ts,vercel,vite" />
+  </a>
+</p>
 
 ## Stats 💜
 <div align="center">
