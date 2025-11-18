@@ -15,5 +15,5 @@
 <div align="center">
   <img style="display: block; margin: 20;" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=nemesis-deb&theme=midnight-purple&hide_border=true"/>
   <br/>
-  <img style="display: block;" width=400 src="https://github-readme-stats-ten-brown-17.vercel.app/api/top-langs/?username=nemesis-deb&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+  <img style="display: block;" width=400 src="https://github-readme-stats-ten-brown-17.vercel.app/api/top-langs/?username=nemesis-deb&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=20"/>
 </div>
