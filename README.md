@@ -7,7 +7,7 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=godot,debian,github,gitlab,idea,obsidian,ps,pr,vscode,windows" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=npm,php,react,rust,supabase,tailwind,ts,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=electron,npm,php,react,rust,supabase,tailwind,ts,vercel,vite" />
   </a>
 </p>
 
