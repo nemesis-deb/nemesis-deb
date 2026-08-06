@@ -1,13 +1,11 @@
-## Languages and Frameworks
+## Languages, Frameworks, Apps
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,haskell,bash,md,py,vue" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,dotnet,javascript,typescript,python,golang,docker" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=git,pnpm,vitest,arch,arduino,discord,docker,fastapi,nodejs,notion" />
+    <img src="https://skillicons.dev/icons?i=tauri,nodejs,postgresql,react,electron,tailwindcss,threejs,vite,vitest" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=godot,debian,github,gitlab,idea,obsidian,ps,pr,vscode,windows" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=electron,npm,php,react,rust,supabase,tailwind,ts,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,obsidian,windows" />
   </a>
 </p>
 
